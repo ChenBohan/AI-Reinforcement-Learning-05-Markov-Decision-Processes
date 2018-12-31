@@ -17,4 +17,10 @@ Lecture 2: Markov Decision Processes by David Silver
   - A policy π is a distribution over actions given states
     - π(a|s) = P [At = a | St = s]
     
-  
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-05-Markov-Decision-Processes/blob/master/readme_img/Bellman%20Equation%20in%20Matrix%20Form.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-05-Markov-Decision-Processes/blob/master/readme_img/Solving%20the%20Bellman%20Equation.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-05-Markov-Decision-Processes/blob/master/readme_img/Bellman%20Expectation%20Equation%20for%20v%CF%80.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-05-Markov-Decision-Processes/blob/master/readme_img/Bellman%20Expectation%20Equation%20for%20Q.png" width = "70%" height = "70%" div align=center />
