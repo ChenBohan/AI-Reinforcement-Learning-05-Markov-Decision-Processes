@@ -1,6 +1,10 @@
 # AI-Reinforcement-Learning-05-Markov-Decision-Processes
 Lecture 2: Markov Decision Processes by David Silver
 
+Website: http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
+
+Videos: https://www.bilibili.com/video/av32149008/?p=4
+
 - A Markov Process (or Markov Chain) is a tuple <S,P>
   - S: a (finite) set of states
   - P: State transition probability 
